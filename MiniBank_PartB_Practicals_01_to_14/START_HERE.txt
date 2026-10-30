@@ -1,0 +1,11 @@
+OOP CEUE203 - MiniBank Part B (Practicals 1-14)
+
+Each Practical-XX folder is an independent checkpoint.
+Use JDK 17 or later (records and pattern matching are used).
+Open one practical folder at a time in VS Code and follow its README.txt.
+Compile/run commands are included in every practical README.
+
+Note:
+- Practical 6, 7, 8 and 14 use package folders under src/.
+- Practical 14 is a compact integrated capstone implementation; practical-specific requirements are demonstrated in their respective folders.
+- Generated data files and compiled .class files are not included.
